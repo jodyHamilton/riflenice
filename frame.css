@@ -1,0 +1,41 @@
+/* CSS Document */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  background: url(images/darkwood.jpg) left top repeat #663300;
+  padding: 0;
+  margin: 0; 
+  scrollbar-base-color: #663300;
+  color: #ffcc99; 
+  padding: 10px;
+
+}
+img{
+  border: none;
+  
+}
+
+a{
+ 
+  text-decoration: none;
+
+}
+
+a:link{
+  color: #ffffff;
+}
+
+a:visited{
+  color: #daa571;
+}
+
+a:hover{
+  color: #ffcc99;
+  
+}
+
+input, textarea{
+  background: #ffcc99;
+  color: #663300;
+}

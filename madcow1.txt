@@ -1,0 +1,7 @@
+simulate 0,0
+the 100,10
+epic 0,20
+making 80,30
+of 10,50
+mad 50,50
+cow 70,80

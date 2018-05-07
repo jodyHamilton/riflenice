@@ -1,0 +1,91 @@
+/* CSS Document */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  background: url(images/wood.jpg) repeat center top;
+  padding: 0;
+  margin: 0; 
+  
+}
+img{
+  border: none;
+  float: left;
+  
+}
+area{
+  border: none;
+}
+
+
+#menu{
+  float: left;
+  width: 435px;
+  height: 582px;
+  padding: 0;
+  margin: 0;
+  /* background: url(images/menu.jpg) no-repeat; */ 
+  }
+
+
+
+iframe{
+  background: url(images/darkwood.jpg) repeat center top;
+  border: #000000;
+}
+#frame{
+  position: absolute;
+  left: 370px;
+  top: 0px;
+
+  padding: 10px;
+  
+  
+}
+
+#frame iframe{
+  margin-top: 20px;
+        border: solid 3px #000000;
+
+}
+
+#radio{
+  float: left;
+  display: block;
+  margin: 200px 0 0 -230px;
+  width: 160;
+  height: 350;
+      border: solid 3px #000000;
+
+}
+
+#radio object{
+  display: block;
+  height: 350px;
+  width: 160px;
+  padding: 0;
+  margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#mailinglist{
+  position: relative;
+  margin: -150px 0px 0 0;
+  padding: 10px;
+  background: url(images/darkwood.jpg) repeat center top;
+  color: #ffcc99;
+  float: left;
+  height: 114px;
+  width: 365px;
+  border: solid 3px #000000;
+  
+}
+
+
+input{
+margin-top: 5px;
+  background: #ffcc99;
+  color: #663300;
+}
